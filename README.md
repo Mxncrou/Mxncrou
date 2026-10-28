@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mxncrou&layout=compact&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Mxncrou&layout=compact&theme=transparent)
+
 <!--
 **Mxncrou/Mxncrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
