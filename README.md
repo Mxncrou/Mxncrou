@@ -2,8 +2,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mxncrou&layout=compact&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Mxncrou&layout=compact&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Mxncrou&repo=Mxncrou%2FSINT&show_owner=true&theme=transparent)](https://github.com/Mxncrou/SINT)
-
 <!--
 **Mxncrou/Mxncrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
